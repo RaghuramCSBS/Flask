@@ -1,0 +1,5 @@
+Flask is a web framework in python used to deploy lite weight applications for ML and DS projects 
+it have wsgi toolkit and jinja engine
+wsgi stands for web server gateway interface 
+wsgi works as interface between web apps and web server
+jinja2 is a web template engine which combines a template with a certain data source to render dynamic web pages
